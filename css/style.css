@@ -1,0 +1,42 @@
+html {
+    background-image: url(../images/backgroundtexture.jpg)
+}
+body {
+    width: 960px;
+    margin-top: 50px;
+    padding-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: 'Yantramanav', sans-serif;
+    background-color: #d4d0e2;
+
+}
+p {
+    color: #505049;
+    font-size: 18pt;
+    line-height: 19pt;
+}
+h1 {
+    font-family: 'Taviraj', serif;
+    color:#394639;
+    font-size: 50pt
+}
+a {
+    color:#394639;
+    font-family: 'Traviraj', serif;
+    font-size: 16pt;
+    text-decoration: none;
+}
+a:hover {
+    color:#9daf9d;
+}
+img {
+    box-shadow: 5px 5px 5px rgba(0,0,0,.3);
+}
+li {
+    display: inline;
+}
+ul {
+    list-style: none;
+}
